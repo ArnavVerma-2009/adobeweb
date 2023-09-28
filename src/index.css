@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    
+    background-color: #000000;
+    background-size: cover;
+    height: 100vh;
+    font-family: inter;
+}
+.address, .date{ 
+    font-family: "sf";
+    font-weight: 900;
+    letter-spacing: 1px;
+}
